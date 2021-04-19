@@ -1,0 +1,21 @@
+{
+  "name": "week_21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.13.8",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cuid": "^2.1.8",
+    "redom": "^3.27.1"
+  }
+}
